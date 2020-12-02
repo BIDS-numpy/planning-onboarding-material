@@ -13,6 +13,8 @@ Then on to setting up an environment
    various options?
     * Personally, I like `venv` as it's Python standard library
       and doesn't require any special knowledge of package managers
+    * N.B. A `conda`-based workflow is probably the most friendly for users on all
+      platforms.
  - Highlight the way `numpy` recommends doing it with the
    `{test/doc}_requirements.txt` files.
 
