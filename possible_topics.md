@@ -49,3 +49,9 @@ potential topics are, but it seems appealing to have a full walkthrough of
 It would be *really* nice if this included the back-and-forth of the review
 process (which very often tends to be pretty extensive), but this might be
 very difficult to capture in a video.
+
+Points of emphasis:
+  - The PR preparation and submission
+  - Responding to comments
+  - N.B. a "real" PR (i.e. a real contribution to upstream rather than a toy
+    example or a dummy fork) would be compelling.
